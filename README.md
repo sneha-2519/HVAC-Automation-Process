@@ -24,12 +24,20 @@ Open all the python Script on Pythhon IDE (Spyder), open the Anaconda Prompt to 
 
 on the prompt mention five arguments like
 
-python file name with extension
-output directory
-Location of brands mapping excel file
-Location of Map_api excel file
-Location of map file
-Location last month files folder
+
+1) python file name with extension
+
+2) output directory
+
+3) Location of brands mapping excel file
+
+4) Location of Map_api excel file
+
+5) Location of map file
+
+6) Location last month files folder
+
 for exapmle : Keeping all the python files in "D:\HVAC\COMBINING TEST\SCRIPT" and restof files and folder are in "D:\HVAC\Automate HVAC"
+
 
 so on the commad prompt: python Automate__API.py "D:\HVAC\Automate HVAC" "D:\HVAC\Automate HVAC\brands-mapping.xlsx" "D:\HVAC\Automate HVAC\Map-Api.xlsx" "D:\HVAC\Automate HVAC\map.xlsx" "D:\HVAC\Automate HVAC\LAST MONTH\EXCEL"
